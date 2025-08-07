@@ -65,12 +65,6 @@ start index.html # Windows
 npx live-server
 ```
 
-### 4️⃣ Start the game
-
-```bash
-npm start
-```
-
 ##  🎮 How to Play
 - ← → Arrow Keys: Move left/right
 - ↑ Arrow Key: Jump
